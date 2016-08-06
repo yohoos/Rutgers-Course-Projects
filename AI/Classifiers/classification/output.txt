@@ -1,0 +1,42 @@
+Time for training:  9.01545190811 seconds
+78 correct out of 100 (78.0%).
+Time for training:  31.6016950607 seconds
+78 correct out of 100 (78.0%).
+Time for training:  188.236573935 seconds
+79 correct out of 100 (79.0%).
+Time for training:  28.7011239529 seconds
+77 correct out of 100 (77.0%).
+Time for training:  116.124064922 seconds
+82 correct out of 100 (82.0%).
+Time for training:  369.213179111 seconds
+82 correct out of 100 (82.0%).
+Time for training:  30.2162971497 seconds
+89 correct out of 100 (89.0%).
+Time for training:  20.5567169189 seconds
+86 correct out of 100 (86.0%).
+Time for training:  75.9264070988 seconds
+85 correct out of 100 (85.0%).
+Time for training:  24.1633439064 seconds
+745 correct out of 1000 (74.5%).
+Time for training:  110.215802908 seconds
+791 correct out of 1000 (79.1%).
+Time for training:  36.1998028755 seconds
+105 correct out of 150 (70.0%).
+Time for training:  16.2006351948 seconds
+100 correct out of 150 (66.7%).
+Time for training:  53.5607290268 seconds
+96 correct out of 150 (64.0%).
+Time for training:  118.012764931 seconds
+793 correct out of 1000 (79.3%).
+Time for training:  59.5815708637 seconds
+136 correct out of 150 (90.7%).
+Time for training:  22.7061941624 seconds
+129 correct out of 150 (86.0%).
+Time for training:  410.320878983 seconds
+803 correct out of 1000 (80.3%).
+Time for training:  103.926476955 seconds
+127 correct out of 150 (84.7%).
+Time for training:  153.961379051 seconds
+791 correct out of 1000 (79.1%).
+Time for training:  36.155780077 seconds
+745 correct out of 1000 (74.5%).

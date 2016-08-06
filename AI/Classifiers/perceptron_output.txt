@@ -1,0 +1,20 @@
+Time for training:  20.5229699612 seconds
+75 correct out of 100 (75.0%).
+Time for training:  39.3395061493 seconds
+75 correct out of 100 (75.0%).
+Time for training:  56.8430030346 seconds
+75 correct out of 100 (75.0%).
+Time for training:  74.5807900429 seconds
+82 correct out of 100 (82.0%).
+Time for training:  96.4359660149 seconds
+85 correct out of 100 (85.0%).
+Time for training:  123.239486933 seconds
+85 correct out of 100 (85.0%).
+Time for training:  140.504842997 seconds
+83 correct out of 100 (83.0%).
+Time for training:  154.835319996 seconds
+82 correct out of 100 (82.0%).
+Time for training:  184.473806143 seconds
+85 correct out of 100 (85.0%).
+Time for training:  201.304386139 seconds
+81 correct out of 100 (81.0%).
